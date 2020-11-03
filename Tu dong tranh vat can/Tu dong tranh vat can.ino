@@ -2,7 +2,7 @@
 #include <Servo.h>
 #define trig 3 //chân trig của HC-SR04
 #define echo 4//chân echo của HC-SR04
-
+Test1123s
 Servo srf05;  // create servo object to control a servo
 #define inA1 6 //Định nghĩa chân in1 của động cơ A
 #define inA2 7//Định nghĩa chân in2 của động cơ A
